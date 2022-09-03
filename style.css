@@ -64,20 +64,20 @@
 
   .branco{
 
-    background-color: white
-    width: 85px;
-    height: 60px;
+    background-color: white;
+    width: 70px;
+    height: 70px;
 
   }
   .verde{
 
     background-color: green;
-    width: 85px;
-    height: 60px;
+    width: 84px;
+    height: 70px;
   }
   .laranja{
 
     background-color: orange;
-    width: 85px;
-    height: 60px;
+    width: 84px;
+    height: 70px;
   }
