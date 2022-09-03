@@ -60,4 +60,24 @@
   }
   .teclado2{
     font-size: 11px;
-    position: absolute;
+    position: absolute;}
+
+  .branco{
+
+    background-color: white
+    width: 85px;
+    height: 60px;
+
+  }
+  .verde{
+
+    background-color: green;
+    width: 85px;
+    height: 60px;
+  }
+  .laranja{
+
+    background-color: orange;
+    width: 85px;
+    height: 60px;
+  }
